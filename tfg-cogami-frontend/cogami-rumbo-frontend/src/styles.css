@@ -1,0 +1,16 @@
+/* sizing of map container */
+.leaflet-container {
+    height: 50rem;
+    width: 96rem;
+}
+
+.leaflet-container-detail {
+    height: 50rem;
+    width: 50rem;
+}
+
+.stop-scrolling {
+    margin: 0;
+    height: 100%;
+    overflow: auto;
+}
