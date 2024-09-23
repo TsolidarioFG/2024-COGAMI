@@ -1,0 +1,16 @@
+{
+    "cogami_database_connection_url": "mongodb://localhost:27017/",
+    "RAPID_API": {
+        "keys": {
+            "RAPIDAPI_KEY_POOL_0": "9d6333122cmsh44b1df6761f21f5p1773bcjsn7faa33ac1e16",
+            "RAPIDAPI_KEY_POOL_1": "1dd12ee0e5msh23880afcb41fb75p1ee49ejsn22b9500971fe",
+            "RAPIDAPI_KEY_POOL_2": "9db051eeefmsh1dc23de841ab547p17e4d6jsn0aa276d581a9",
+            "RAPIDAPI_KEY_POOL_3": "2dfcc9300bmsh6aa76a2704c43d6p19ba2bjsn45e1303ff346",
+            "RAPIDAPI_KEY_POOL_4": "55ed03be7amshc3682341181a071p131a1fjsnd1b02f81f257"
+        },
+        "RAPIDAPI_HOST_IDEALISTA": "idealista2.p.rapidapi.com",
+        "RAPIDAPI_HOST_FOTOCASA": "fotocasa1.p.rapidapi.com",
+        "RAPIDAPI_IDEALISTA_GETDETAIL": "https://idealista2.p.rapidapi.com/properties/detail?",
+        "RAPIDAPI_FOTOCASA_GETDETAIL": "https://fotocasa1.p.rapidapi.com/propertydetails?"
+    }
+}

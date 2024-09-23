@@ -1,0 +1,6 @@
+@tfg_cogami_api_backend_HostAddress = http://localhost:5076
+
+GET {{tfg_cogami_api_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
