@@ -164,7 +164,7 @@ const FavoritePropertiesSearch : FC = () => {
                         notifications: favProp?.notifications,
                         notificationMessage: favProp?.notificationMessage
                     }
-                    setFavoriteProperties(state => { return [...state, formatFavProp] })
+                    // setFavoriteProperties(state => { return [...state, formatFavProp] })
                     favoriteResult.push(formatFavProp)
                     let parsedRawData = JSON.parse(formatFavProp.rawData)
                     let locationId = String(parsedRawData?.ubication?.locationId)
@@ -186,7 +186,7 @@ const FavoritePropertiesSearch : FC = () => {
                 })
             })
             setFavoriteLocationsId(locationResult)
-            // setFavoriteProperties(favoriteResult)
+            setFavoriteProperties(favoriteResult)
         })
     }, [])
 
