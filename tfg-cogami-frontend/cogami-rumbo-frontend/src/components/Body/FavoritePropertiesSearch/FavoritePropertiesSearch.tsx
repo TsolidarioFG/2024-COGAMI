@@ -96,6 +96,7 @@ const FavoritePropertiesSearch : FC = () => {
         } else {
             callApi(getUserFavoriteProperties(user?.id)).then((result: any) => {
                 if (result && result.length !== favoriteProperties.length && propertySearchResult.length === 0) {
+                    let favProps : FavoriteProperty[] = []
                     result.map((favProp: any) => {
                         callApi(getPropertyById(favProp?.id)).then((property: any) => {
                             let formatFavProp = {
@@ -109,7 +110,8 @@ const FavoritePropertiesSearch : FC = () => {
                                 notifications: favProp?.notifications,
                                 notificationMessage: favProp?.notificationMessage
                             }
-                            setFavoriteProperties(state => { return [...state, formatFavProp] })
+                            favProps.push(formatFavProp)
+                            // setFavoriteProperties(state => { return [...state, formatFavProp] })
                             let parsedRawData = JSON.parse(formatFavProp.rawData)
                             let locationId = String(parsedRawData?.ubication?.locationId)
                             if (formatFavProp.portal === "idealista" && searchOptions.portal === "idealista" && parsedRawData?.operation === "rent") {
@@ -122,15 +124,16 @@ const FavoritePropertiesSearch : FC = () => {
                                     setPropertySearchResult(state => { return [...state, 
                                         formatIdealistaPropertyIntoPropertySearchResult(JSON.parse(formatFavProp.rawData))]})
                                     }
-                                } else {
-                                    if (!favoriteLocationsId.fotocasa.includes(locationId)) {
-                                        let tempLocations = favoriteLocationsId.fotocasa
-                                        tempLocations.push(locationId)
-                                        setFavoriteLocationsId(state => { return {...state, fotocasa: tempLocations} })
-                                    }
+                            } else {
+                                if (!favoriteLocationsId.fotocasa.includes(locationId)) {
+                                    let tempLocations = favoriteLocationsId.fotocasa
+                                    tempLocations.push(locationId)
+                                    setFavoriteLocationsId(state => { return {...state, fotocasa: tempLocations} })
                                 }
+                            }
                         })
                     })
+                    setFavoriteProperties(favProps)
                 }
             })
 
@@ -161,18 +164,29 @@ const FavoritePropertiesSearch : FC = () => {
                         notifications: favProp?.notifications,
                         notificationMessage: favProp?.notificationMessage
                     }
-                    
+                    setFavoriteProperties(state => { return [...state, formatFavProp] })
                     favoriteResult.push(formatFavProp)
                     let parsedRawData = JSON.parse(formatFavProp.rawData)
                     let locationId = String(parsedRawData?.ubication?.locationId)
                     if (!locationResult[formatFavProp.portal as keyof LocationsId].includes(locationId)) {
-                        locationResult[formatFavProp.portal as keyof LocationsId].push(locationId)
+                        setFavoriteLocationsId(state => {
+                            const newLoc = {...state}
+                            const key = formatFavProp.portal as keyof LocationsId
+
+                            if (!newLoc[key]) {
+                                newLoc[key] = []
+                            }
+                            newLoc[key].push(locationId)
+
+                            return newLoc
+                        })
+                        // locationResult[formatFavProp.portal as keyof LocationsId].push(locationId)
                     }
 
                 })
             })
             setFavoriteLocationsId(locationResult)
-            setFavoriteProperties(favoriteResult)
+            // setFavoriteProperties(favoriteResult)
         })
     }, [])
 
