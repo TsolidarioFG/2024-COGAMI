@@ -1,0 +1,3824 @@
+[
+  {
+    "Name": "A Coruña provincia",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,0,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Barcala, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,487,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Baña, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,487,0,15007,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Negreira, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,487,0,15056,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barbanza, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pobra do Caramiñal, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15067,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boiro, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15011,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rianxo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15072,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribeira, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Aguiño, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4405,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Artes, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4406,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Carreira, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4407,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Castiñeiras, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4408,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Corrubedo, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4409,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oleiros, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4410,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Olveira, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4411,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Palmeira, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4412,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Santa Uxía de Ribeira, Ribeira",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,489,0,15073,0,4413,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bergantiños, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Laracha, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15041,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cabana de Bergantiños, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15014,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15019,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coristanco, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15029,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Laxe, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15040,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Malpica de Bergantiños, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15043,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponteceso, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,490,0,15068,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de A Coruña, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Coruña Capital, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Agra del Orzán - Ventorrillo - Vioño, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2228,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro - Juan Flórez - Plaza Pontevedra, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,0",
+    "Divisible": true,
+    "SubTypeText": "Distrito divisible"
+  },
+  {
+    "Name": "Ciudad Jardín, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,759",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ensanche, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,755",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Falperra - Santa Lucía, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,756",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Paseo de los Puentes - Santa Margarita, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,757",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Pablo - Juan Flórez, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2232,758",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ciudad Vieja, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2229,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cuatro Caminos - Plaza de la Cubela, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2230,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Elviña - A Zapateira, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2231,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Los Castros - Castrillón - Eiris, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2233,0",
+    "Divisible": true,
+    "SubTypeText": "Distrito divisible"
+  },
+  {
+    "Name": "Eirís, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2233,1622",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Los Castros - Castrillón, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2233,1623",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mesoiro, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2235,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Monte Alto - Zalaeta - Atocha, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2236,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Os Mallos, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,3572,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Riazor - Los Rosales, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2237,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sagrada Familia, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,3571,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Someso - Matogrande, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,2238,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vioño, A Coruña Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1004,15030,0,3573,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Abegondo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,969,15001,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arteixo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arteixo pueblo, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2984,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Loureda - Lañas - Barrañán, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2988,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Morás - A Zapateira, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2989,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oseiro, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2987,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Pastoriza, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2986,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Suevos, Arteixo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,970,15005,0,2985,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bergondo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,972,15008,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cambre, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,973,15017,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carral, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,974,15021,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Culleredo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Zapateira, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2938,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Acea de Ama - O Burgo, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2936,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Almeiras, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2941,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro de Culleredo, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2940,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias rurales, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2939,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Portádego - Vilaboa Norte, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2935,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilaboa Sur, Culleredo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,991,15031,0,2937,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oleiros, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dexo  -Lorbé, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4046,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Dorneda, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4047,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Inás, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4048,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Liáns, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4049,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Maianca, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4050,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mera - Serantes, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4051,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Nós, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4052,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oleiros pueblo, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4053,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Perillo, Oleiros",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1014,15058,0,4054,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sada (A Coruña), A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,492,1065,15075,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Arzúa, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,488,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Arzúa, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,488,0,15006,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boimorto, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,488,0,15010,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Pino, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,488,0,15066,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Touro, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,488,0,15085,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Betanzos, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Aranga, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15003,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Betanzos, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15009,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cesuras, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15026,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coirós, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15027,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Curtis, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15032,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Irixoa, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15039,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Miño, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15048,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oza dos Ríos, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15063,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paderne, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15064,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilarmaior, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15091,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilasantar, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,491,0,15090,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Ferrol, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Ares, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1006,15004,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "As Somozas, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1010,15081,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cedeira, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15022,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fene, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1010,15035,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ferrol, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Malata - Catabois - Ciudad Jardín, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2250,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Área Rural, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2239,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Canido, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2241,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Caranza, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2244,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2242,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Esteiro, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2243,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fajardo, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2248,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ferrol Vello - Puerto, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2240,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Plaza de España, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2246,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Porta Nova, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2247,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Juan, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2249,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona Ultramar, Ferrol",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1011,15036,0,2245,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Moeche, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1010,15049,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mugardos, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1006,15051,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Narón, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Gándara, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2263,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Alto del Castaño, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2262,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Feal - Xubia, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2259,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Piñeiros- Freixeiro, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2261,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Mateo - Castro- O Val, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2258,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sedes - Pedroso - Doso, Narón",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15054,0,2260,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Neda, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1010,15055,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Sadurniño, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1010,15076,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Valdoviño, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,493,1013,15087,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Fisterra, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cee, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,15023,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Corcubión, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,15028,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dumbría, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,15034,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fisterra, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,15037,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muxía, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,496,0,15052,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Muros, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,497,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Carnota, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,497,0,15020,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muros, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,497,0,15053,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Noia, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,498,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Lousame, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,498,0,15042,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Noia, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,498,0,15057,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Outes, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,498,0,15062,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Porto do Son, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,498,0,15071,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Ordes, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cerceda, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15024,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Frades, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15038,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mesía, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15047,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ordes, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15059,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oroso, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15060,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tordoia, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15084,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trazo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,500,0,15086,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Santiago, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Ames, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15002,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Ames, Ames",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15002,0,2773,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bertamirans, Ames",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15002,0,2772,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bugallido, Ames",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15002,0,2774,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Milladoiro, Ames",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15002,0,2771,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Boqueixón, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1024,15012,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Brión, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15013,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santiago de Compostela, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Campus Norte - San Caetano, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2299,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Campus Sur - Santa Marta, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2304,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casco Histórico, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2303,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Castiñeiriño - Cruceiro de Sar, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2297,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Concheiros - Fontiñas, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2302,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Conxo, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2298,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ensanche - Sar, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2301,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias de Santiago, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2296,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Lázaro - Meixonfrío, Santiago de Compostela",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1022,15078,0,2300,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Teo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1024,15082,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Val do Dubra, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1005,15088,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vedra, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,494,1024,15089,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Eume, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Capela, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,15018,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "As Pontes de García Rodríguez, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,15070,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cabanas, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,15015,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monfero, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,15050,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontedeume, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,495,0,15069,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Sar, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,499,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Dodro, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,499,0,15033,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Padrón, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,499,0,15065,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rois, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,499,0,15074,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ortegal, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,501,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cariño, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,501,0,15901,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerdido, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,501,0,15025,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mañón, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,501,0,15044,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ortigueira, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,501,0,15061,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Melide, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,502,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Melide, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,502,0,15046,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santiso, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,502,0,15079,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sobrado (A Coruña), A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,502,0,15080,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Toques, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,502,0,15083,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Soneira, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,503,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Camariñas, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,503,0,15016,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vimianzo, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,503,0,15092,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Zas, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,503,0,15093,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xallas, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,504,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Mazaricos, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,504,0,15045,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santa Comba, A Coruña",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,15,504,0,15077,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontevedra provincia",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,0,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "Baixo Miño, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Guarda, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,36023,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Rosal, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,36048,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oia, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,36036,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tomiño, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,36054,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tui, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,530,0,36055,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Caldas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Caldas de Reis, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36005,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Catoira, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36010,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cuntis, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36015,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Moraña, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36032,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontecesures, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36044,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Portas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36040,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Valga, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,531,0,36056,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Pontevedra, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Lama, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1009,36025,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barro, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1017,36002,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Campo Lameiro, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1009,36007,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cotobade, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1009,36012,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Poio, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1017,36041,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponte Caldelas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1009,36043,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontevedra Capital, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Campo da Torre - Mollabao, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2293,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro - Echegaray, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2290,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "La Seca - Los Salgueriños, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2291,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Burgo - Campus Universitario, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2289,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias Rurales, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2292,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona de Plaza de Barcelos, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2295,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona Fernández Ladreda, Pontevedra Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1018,36038,0,2294,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilaboa, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,532,1026,36058,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Vigo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Baiona, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36003,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fornelos de Montes, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1020,36019,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Gondomar, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36021,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mos, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1020,36033,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Nigrán, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Camos, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2804,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Chandebrito, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2803,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Nigrán centro, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2808,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Panxón, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2807,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parada, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2805,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Priegue, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2809,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Pedro da Ramallosa, Nigrán",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1007,36035,0,2806,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Porriño, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1019,36039,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pazos de Borbén, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1020,36037,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Redondela, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1020,36045,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salceda de Caselas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1019,36049,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Soutomaior, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1020,36053,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vigo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Alcabre, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,3584,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bembrive, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,3588,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cabral - Candeán, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2309,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro Urbano, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,0",
+    "Divisible": true,
+    "SubTypeText": "Distrito divisible"
+  },
+  {
+    "Name": "As Travesas - Balaídos, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,723",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Berbés - Peritos, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1081",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bouzas, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1079",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Camelias - Pi y Margall, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1082",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casablanca - Calvario, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,730",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casco Vello, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,728",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro - Areal, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,729",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coia, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1078",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fátima - Travesía de Vigo - San Xoán, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,731",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Castro, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1080",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Plaza España - Corte Inglés, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,727",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Plaza Industria, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,1083",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Praza Independencia, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,725",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Salgueira - O Castaño, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2305,726",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Comesaña - Matamá, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,3586,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coruxo - Oia - Saiáns, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2311,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Lavadores, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2308,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Navia, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,3585,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sardoma - Castrelos, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2306,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Teis, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,2307,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Valadares - Beade, Vigo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,533,1025,36057,0,3587,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Condado, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "As Neves, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,36034,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondariz, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,36030,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondariz-Balneario, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,36031,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponteareas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,36042,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salvaterra de Miño, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,534,0,36050,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Deza, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Agolada, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36020,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dozón, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36016,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lalín, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36024,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rodeiro, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36047,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Silleda, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36052,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vila de Cruces, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,535,0,36059,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Morrazo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Bueu, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36004,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cangas, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Aldán, Cangas",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,2758,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cangas pueblo, Cangas",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,2755,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coiro, Cangas",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,2754,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Darbo, Cangas",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,2756,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Hío, Cangas",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36008,0,2757,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Marín, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36026,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Moaña, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,536,0,36029,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paradanta, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,537,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Cañiza, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,537,0,36009,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arbo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,537,0,36001,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Covelo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,537,0,36013,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Crecente, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,537,0,36014,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salnés, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Illa de Arousa, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36901,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cambados, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36006,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Meaño, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36027,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Meis, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36028,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Grove, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36022,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadumia, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36046,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sanxenxo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Adina - Portonovo, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2785,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Arra, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2784,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bordóns, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2787,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Dorrón, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2788,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Gondar, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2783,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Nantes, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2782,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Noalla, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2780,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sanxenxo pueblo, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2786,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilalonga, Sanxenxo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1023,36051,0,2781,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilagarcía de Arousa, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arealonga, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2839,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bamio, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2833,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cea, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2837,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cornazo, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2835,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fontecarmoa, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2830,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Carril, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2832,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Rubiáns, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2836,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sobradelo, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2838,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sobrán, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2834,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Solobeira, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2831,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilagarcía, Vilagarcía de Arousa",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36060,0,2829,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilanova de Arousa, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,538,1027,36061,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tabeirós - Tierra Montes, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,539,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Estrada, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,539,0,36017,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerdedo, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,539,0,36011,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Forcarei, Pontevedra",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,36,539,0,36018,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lugo provincia",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,0,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Mariña Central, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Alfoz, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27002,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Burela, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27902,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Foz, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27019,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lourenzá, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27027,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondoñedo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27030,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Valadouro, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,505,0,27063,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Mariña Occidental, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cervo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,27013,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Vicedo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,27064,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourol, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,27038,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Viveiro, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,27066,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xove, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,506,0,27025,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Mariña Oriental, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,507,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pontenova, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,507,0,27048,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barreiros, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,507,0,27005,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadeo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,507,0,27051,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trabada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,507,0,27061,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Chantada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,508,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Carballedo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,508,0,27009,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Chantada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,508,0,27016,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Taboada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,508,0,27060,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Lugo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Castroverde, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,979,27011,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Friol, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,998,27020,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Guntín, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1000,27023,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lugo Capital, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Milagrosa, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2459,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "A Piriganlla - Albeiros - Garabolos, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2252,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Acea de Olga - Augas Férreas, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2456,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro - Recinto Amurallado, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2256,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fingoi, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2254,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Paradai, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2251,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias del Este, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,3574,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias del Oeste, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,3575,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Recatelo - O Carme, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2457,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Residencia - Abella, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2458,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sagrado Corazón - As Gándaras, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2257,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Roque - As Fontiñas, Lugo Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1012,27028,0,2253,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Corgo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1008,27014,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Outeiro de Rei, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1021,27039,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Portomarín, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1063,27049,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rábade, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,509,1064,27056,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Meira, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,512,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Meira, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,512,0,27029,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pol, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,512,0,27046,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribeira de Piquín, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,512,0,27053,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Riotorto, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,512,0,27054,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Quiroga, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,513,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Folgoso do Courel, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,513,0,27017,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Quiroga, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,513,0,27050,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribas de Sil, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,513,0,27052,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Sarria, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Láncara, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27026,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Incio, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27024,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Páramo, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27043,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paradela, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27042,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Samos, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27055,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sarria, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27057,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Triacastela, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,514,0,27062,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fonsagrada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,510,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Fonsagrada, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,510,0,27018,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baleira, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,510,0,27004,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Negueira de Muñiz, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,510,0,27035,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Los Ancares, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "As Nogais, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27037,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baralla, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27901,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Becerreá, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27006,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cervantes, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27012,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Navia de Suarna, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27034,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pedrafita do Cebreiro, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,511,0,27045,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra Chá, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pastoriza, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27044,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Abadín, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27001,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Begonte, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27007,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castro de Rei, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27010,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cospeito, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27015,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Guitiriz, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27022,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muras, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27033,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilalba, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27065,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xermade, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,515,0,27021,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Lemos, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pobra do Brollón, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27047,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Bóveda, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27008,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monforte de Lemos, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27031,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Saviñao, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27058,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pantón, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27041,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sober, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,516,0,27059,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ulloa, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,517,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Antas de Ulla, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,517,0,27003,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monterroso, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,517,0,27032,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Palas de Rei, Lugo",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,27,517,0,27040,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourense provincia",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,0,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Baixa Limia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Bande, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,32006,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Entrimo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,32030,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lobeira, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,32041,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lobios, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,32042,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muíños, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,518,0,32051,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Allariz - Maceda, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Allariz, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32001,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baños de Molgas, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32007,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Maceda, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32043,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paderne de Allariz, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32055,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xunqueira de Ambía, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32036,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xunqueira de Espadanedo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,519,0,32037,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballiño, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Beariz, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32011,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boborás, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32013,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Maside, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32045,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Carballiño, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32019,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Irixo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32035,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Piñor, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32061,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Punxín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32065,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Amaro, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32074,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Cristovo de Cea, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,520,0,32076,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Ourense, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Peroxa, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32059,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Amoeiro, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32002,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barbadás, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,971,32008,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coles, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32026,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Esgos, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32031,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Nogueira de Ramuín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32052,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Pereiro de Aguiar, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32058,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourense Capital, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Carballeira, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2273,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "A Ponte, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2280,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "As Lagoas, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2274,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Barrocanes, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2275,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casco Viejo, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2276,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2277,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Couto, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2278,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mariñamansa, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2279,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Polvorín, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2281,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Posío, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2282,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Residencia, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2283,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Francisco, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2284,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Rosendo, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2285,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Universidad, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2286,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ventiun, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2287,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vistahermosa, Ourense Capital",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1015,32054,0,2288,0",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Cibrao das Viñas, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,971,32075,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Taboadela, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,971,32079,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Toén, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,971,32081,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilamarín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,521,1016,32087,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Verín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Castrelo do Val, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32021,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cualedro, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32028,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Laza, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32039,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monterrei, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32050,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oímbra, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32053,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Riós, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32071,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Verín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32085,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilardevós, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,528,0,32091,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Comarca de Viana, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,529,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Gudiña, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,529,0,32034,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Mezquita, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,529,0,32048,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Viana do Bolo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,529,0,32086,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilariño de Conso, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,529,0,32092,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Limia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Baltar, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32005,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Calvos de Randín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32016,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Os Blancos, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32012,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Porqueira, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32062,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rairiz de Veiga, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32067,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sandiás, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32077,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sarreaus, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32078,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trasmiras, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32082,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilar de Barrio, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32089,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilar de Santos, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32090,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xinzo de Limia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,522,0,32032,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribeiro, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Arnoia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32003,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Avión, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32004,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Beade, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32010,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballeda de Avia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32018,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castrelo de Miño, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32022,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cenlle, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32025,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cortegada, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32027,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Leiro, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32040,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Melón, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32046,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadavia, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,523,0,32069,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Caldelas, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,524,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Teixeira, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,524,0,32080,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castro Caldelas, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,524,0,32023,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Montederramo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,524,0,32049,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Parada de Sil, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,524,0,32057,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Celanova, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Bola, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32014,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Merca, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32047,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cartelle, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32020,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Celanova, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32024,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Gomesende, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32033,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Padrenda, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32056,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontedeva, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32064,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Quintela de Leirado, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32066,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ramirás, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32068,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Verea, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,525,0,32084,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Terra de Trives, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,526,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pobra de Trives, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,526,0,32063,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Chandrexa de Queixa, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,526,0,32029,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Manzaneda, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,526,0,32044,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Xoán de Río, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,526,0,32070,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Valdeorras, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,0,0,0,0",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Rúa, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32072,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Veiga, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32083,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballeda de Valdeorras, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32017,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Larouco, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32038,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Barco de Valdeorras, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32009,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Bolo, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32015,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Petín, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32060,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rubiá, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32073,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilamartín de Valdeorras, Ourense",
+    "Portal": "fotocasa",
+    "LocationId": "724,12,32,527,0,32088,0,0,0",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  }
+]

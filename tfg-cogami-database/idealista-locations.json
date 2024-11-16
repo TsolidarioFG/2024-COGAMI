@@ -1,0 +1,3698 @@
+[
+  {
+    "Name": "A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Baña, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-18-001-007",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Capela, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-03-001-018",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arzua, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-06-001-006",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "As Pontes de Garcia Rodriguez, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-03-001-070",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barbanza, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Boiro, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-002-011",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Puebla del Caramiñal, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-003-067",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rianxo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-004-072",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribeira, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-001-073",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carreira - Castiñeiras - Aguiño, Ribeira",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-001-073-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Corrubedo - Oleiros - Olveira, Ribeira",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-001-073-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Palmeira, Ribeira",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-001-073-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ribeira, Ribeira",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-09-001-073-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bergantiños, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cabana de Bergantiños, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-001-014",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-003-019",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coristanco, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-001-029",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Laracha, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-004-041",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Laxe, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-001-040",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Malpica de Bergantiños, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-002-043",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponteceso, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-14-001-068",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boimorto, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-06-001-010",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cabanas, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-03-001-015",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Camariñas, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-13-001-016",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cariño, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-01-001-901",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carnota, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-11-001-020",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cee, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-12-001-023",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerceda, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-024",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Corcubion, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-12-001-028",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dodro, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-08-001-033",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dumbria, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-12-001-034",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fisterra, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-12-001-037",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Frades, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-038",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mazaricos, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-17-001-045",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mañon, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-01-001-044",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Melide, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-05-001-046",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mesia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-047",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Miño - Betanzos, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Aranga, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-004-003",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Betanzos, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-002-009",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coiros, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-003-027",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Curtis, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-006-032",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Irixoa, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-004-039",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Miño, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-001-048",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oza-Cesuras, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-005-902",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paderne, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-003-064",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilarmaior, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-001-091",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilasantar, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-04-006-090",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monfero, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-03-001-050",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muros, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-11-001-053",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muxia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-12-001-052",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Negreira, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-18-001-056",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Noia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-10",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Lousame, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-10-001-042",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Noia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-10-001-057",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Outes, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-10-002-062",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Porto do Son, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-10-003-071",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Pino, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-06-001-066",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ordes, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-059",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oroso, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-060",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ortigueira, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-01-001-061",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Padron, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-08-001-065",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontedeume, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-03-001-069",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santa Comba, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-17-001-077",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santiago, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Ames, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-003-002",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Bertamirans, Ames",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-003-002-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bugallido, Ames",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-003-002-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Milladoiro, Ames",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-003-002-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Área de Ames, Ames",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-003-002-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Boqueixon, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-006-012",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Brion, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-005-013",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rois, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-005-074",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santiago de Compostela, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arins, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Campus norte - S.Caetano, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Campus sur - Santa Marta, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casco Histórico, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Castiñeiriño - Cruceiro do Sar, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Concheiros - Fontiñas, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Conxo, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ensanche - Sar, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Marrozos - Eixo, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Lazaro - Meixonfrio, Santiago de Compostela",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-001-078-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Teo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-002-082",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Val do Dubra, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-004-088",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vedra, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-07-006-089",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santiso, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-05-001-079",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sobrado, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-05-001-080",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Toques, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-05-001-083",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tordoia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-084",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Touro, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-06-001-085",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trazo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-16-001-086",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vimianzo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-13-001-092",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Zas, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-13-001-093",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de A Coruña, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Coruña, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Agra del Orzán - Ventorrillo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ciudad Vieja - Centro, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cuatro Caminos - Plaza de la Cubela, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Eirís, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-14",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Elviña - A Zapateira, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ensanche - Juan Florez, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03",
+    "Divisible": true,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ciudad Jardín, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03-005",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Ensanche, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03-001",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Falperra-Santa Lucía, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03-003",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Juan Flórez-San Pablo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03-002",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Paseo de los Puentes-Santa Margarita, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-03-004",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Los Castros - Castrillón, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mesoiro, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-11",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Monte Alto - Zalaeta - Atocha, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Os Mallos, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Riazor - Los Rosales, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sagrada Familia, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-13",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Someso - Matogrande, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vioño, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-001-030-12",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Abegondo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-009-001",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arteixo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arteixo, Arteixo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Loureda-Lañas-Barrañán, Arteixo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Morás-A Zapateira, Arteixo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oseiro, Arteixo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Suevos-Pastoriza, Arteixo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-003-005-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bergondo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-007-008",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cambre, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-005-017",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carral, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-008-021",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Culleredo, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Zapateira, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Acea de Ama - O Burgo, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Almeiras, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro de Culleredo, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias rurales, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Portádego - Vilaboa Norte, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilaboa Sur, Culleredo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-006-031-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Lubre (San Juan Bautista), A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-007-601",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oleiros, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dexo-Lorbé, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Dorneda, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Iñás, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Liáns, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Maianca, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mera-Serantes, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Nós, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Oleiros, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Perillo, Oleiros",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-002-058-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sada, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-15-004-075",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Ferrol, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Ares, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-004-004",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cedeira, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-002-022",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerdido, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-002-025",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fene, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-003-035",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ferrol, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Malata - Serantes - Viladóniga, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Brión - San Felipe - La Graña, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-15",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Canido, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Caranza, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Catabois - Santa María, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-12",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Doniños - Esmelle - San Jorge, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-16",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Esteiro, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fajardo, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ferrol Vello - Puerto, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "La Cabaña - Valón, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-14",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Pazos - Mandía, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-13",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Plaza de España, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Porta Nova, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-11",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Juan, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona Ultramar, Ferrol",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-001-036-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Moeche, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-007-049",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mugardos, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-004-051",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Narón, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Gándara, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Alto del Castaño, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Feal-Xuvia, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Piñeiros-Freixeiro, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Mateo-Castro-O Val, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sedes-Pedroso-Doso, Narón",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-005-054-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Neda, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-003-055",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Sadurniño, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-007-076",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Somozas, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-007-081",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Valdoviño, A Coruña",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-15-02-006-087",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Fonsagrada, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-07-001-018",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Mariña, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Pontenova, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-005-048",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Alfoz, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-007-002",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barreiros, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-006-005",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Burela, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-004-902",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cangas (Foz), Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-001-621",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cervo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-004-013",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fazouro, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-001-623",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Foz, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-001-019",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lourenza, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-005-027",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondoñedo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-005-030",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Valadouro, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-007-063",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Vicedo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-008-064",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourol, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-007-038",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadeo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-002-051",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Martiño, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-001-622",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trabada, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-005-061",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Viveiro, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-003-066",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xove, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-03-004-025",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Pastoriza, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-044",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Pobra do Brollón, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-047",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Abadin, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-001",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Antas de Ulla, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-10-001-003",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "As Nogais, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-037",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baleira, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-07-001-004",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baralla, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-901",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Becerrea, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-006",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Begonte, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-007",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boveda, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-008",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballedo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-11-001-009",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castro de Rei, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-010",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cervantes, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-012",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Chantada, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-11-001-016",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cospeito, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-015",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Folgoso do Courel, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-09-001-017",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Guitiriz, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-022",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lancara, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-026",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Meira, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-06-001-029",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monforte de Lemos, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-031",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monterroso, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-10-001-032",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muras, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-033",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Navia de Suarna, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-034",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Negueira de Muñiz, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-07-001-035",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Incio, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-024",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Paramo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-043",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Saviñao, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-058",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Palas de Rei, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-10-001-040",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Panton, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-041",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paradela, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-042",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pedrafita do Cebreiro, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-04-001-045",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pol, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-06-001-046",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Quiroga, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-09-001-050",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribas de Sil, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-09-001-052",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribeira de Piquin, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-06-001-053",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Riotorto, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-06-001-054",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Samos, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-055",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sarria, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-057",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sober, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-05-001-059",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Taboada, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-11-001-060",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Triacastela, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-08-001-062",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Villalba, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-065",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xermade, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-02-001-021",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Lugo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Barreiros (Castroverde), Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-005-620",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castroverde, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-005-011",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Friol, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-001-020",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Guntin, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-005-023",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lugo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Aceña de Olga - Augas Férreas, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Avenida de A Coruña - Paradai, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Fingoi, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "La Milagrosa, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Carme - Recatelo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias Este, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parroquias Oeste, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Piringalla, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-12",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Recinto Amurallado, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Residencia - Abella, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-11",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sagrado Corazón, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Roque - As Fontiñas, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-003-028-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Corgo, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-005-014",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Outeiro de Rei, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-001-039",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Portomarin, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-005-049",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rabade, Lugo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-27-01-001-056",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Bola, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-014",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Gudiña, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-034",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Merca, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-047",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Mezquita, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-048",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Rua, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-072",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Teixeira, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-080",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Veiga, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-083",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Allariz, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-001",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arnoia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-003",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Avion, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-004",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baltar, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-005",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Bande, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-006",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baños de Molgas, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-007",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Beade, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-010",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Beariz, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-011",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Blancos (Os), Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-012",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Boboras, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-013",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Calvos de Randin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-016",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballeda de Avia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-018",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Carballeda, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-017",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cartelle, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-020",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castrelo de Miño, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-022",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castrelo do Val, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-021",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Castro Caldelas, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-023",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Celanova, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-024",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cenlle, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-025",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Chandrexa de Queixa, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-029",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cortegada, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-027",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cualedro, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-028",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Entrimo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-030",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Gomesende, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-033",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Larouco, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-038",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Laza, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-039",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Leiro, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-040",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lobeira, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-041",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lobios, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-042",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Maceda, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-043",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Manzaneda, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-044",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Maside, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-045",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Melon, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-046",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Montederramo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-049",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Monterrei, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-050",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Muiños, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-051",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Barco de Valdeorras, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-009",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Bolo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-015",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Carballiño, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-019",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Irixo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-035",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oimbra, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-053",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Paderne de Allariz, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-055",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Padrenda, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-056",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Parada de Sil, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-057",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Petin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-060",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Piñor, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-061",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontedeva, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-064",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Porqueira, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-062",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Puebla de Trives, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-063",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Punxin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-065",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Quintela de Leirado, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-066",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rairiz de Veiga, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-067",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ramiras, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-068",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadavia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-08-001-069",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Riós, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-071",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rubia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-073",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Amaro, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-074",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Cristovo de Cea, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-09-001-076",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Xoán de Río, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-02-001-070",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sandias, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-077",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sarreaus, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-078",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Trasmiras, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-082",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Verea, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-07-001-084",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Verin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-085",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Viana do Bolo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-086",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilamartin de Valdeorras, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-03-001-088",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilar de Barrio, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-089",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilar de Santos, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-090",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilardevos, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-091",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilariño de Conso, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-04-001-092",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xinzo de Limia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-05-001-032",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xunqueira de Ambia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-036",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Xunqueira de Espadanedo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-06-001-037",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Ourense, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Peroxa, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-004-059",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Amoeiro, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-003-002",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barbadas, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-002-008",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Coles, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-004-026",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Esgos, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-005-031",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Nogueira de Ramuin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-005-052",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ourense, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Carballeira, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "A Ponte, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "As Lagunas, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Barrocanes, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Casco Viejo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Couto, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Mariñamansa, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-12",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Vinteun, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-11",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Polvorín, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-13",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Posío, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Quintela - Los Pinos, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-15",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Residencia, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Francisco, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Universidad, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-16",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilar de Astrés - Palmés - Arrabaldo, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-17",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vista Hermosa, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-001-054-14",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Pereiro de Aguiar, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-005-058",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "San Cibrao das Viñas, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-006-075",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Taboadela, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-006-079",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Toén, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-002-081",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilamarin, Ourense",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-32-01-003-087",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36",
+    "Divisible": true,
+    "SubTypeText": "Provincia"
+  },
+  {
+    "Name": "A Estrada, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-09-001-017",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Agolada, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-020",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baixo Miño, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Guarda, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03-001-023",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Rosal, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03-001-048",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Oia, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03-002-036",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tomiño, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03-003-054",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Tui, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-03-004-055",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Caldas de Reis, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-005",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Catoira, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-010",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Condado - Paradanta, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Cañiza, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-003-009",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arbo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-001-001",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "As Neves, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-001-034",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Crecente, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-001-014",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Fornelos, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-003-019",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondariz, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-002-030",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mondariz-Balneario, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-002-031",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Covelo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-003-013",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponteareas, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-002-042",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salvaterra de Miño, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-02-001-050",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cuntis, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-015",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Dozon, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-016",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Forcarei, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-09-001-018",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Lalin, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-024",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Moraña, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-032",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Morrazo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Bueu, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-002-004",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cangas, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Aldán, Cangas",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cangas, Cangas",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coiro, Cangas",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Darbo, Cangas",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Hío, Cangas",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-001-008-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Marin, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-004-026",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Moaña, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-07-003-029",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontecesures, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-044",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Portas, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-040",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Rodeiro, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-047",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salnés, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Cambados, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-003-006",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Illa de Arousa, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-003-901",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Meaño, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-004-027",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Meis, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-004-028",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "O Grove, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-005-022",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ribadumia, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-004-046",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Sanxenxo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Adina-Portonovo, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bordóns-Dorrón, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Nantes, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Noalla, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sanxenxo, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Villalonga, Sanxenxo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-002-051-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilagarcía de Arousa, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Arealonga, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cea, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Cornazo - Rubianes, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Carril - Bamio, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sobradelo - Rosaleda, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Sobrán, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilagarcía, Vilagarcía de Arousa",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-001-060-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vilanova de Arousa, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-04-003-061",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Silleda, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-052",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Valga, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-05-001-056",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vila de Cruces, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-08-001-059",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Pontevedra, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "A Lama, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-004-025",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Alba, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-614",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Barro, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-006-002",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Bora, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-621",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Campañó, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-613",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Campo Lameiro, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-004-007",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Canicouva, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-626",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerdedo-Cotobade, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-004-902",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Cerponzóns, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-615",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Marcón, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-622",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mourente, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-620",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Poio, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Combarro, Poio",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Raxo, Poio",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Samiera, Poio",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Salvador - Caeira, Poio",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Xoán de Poio, Poio",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-001-041-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Ponte Sampaio, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-627",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Ponte-Caldelas, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-004-043",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pontevedra, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "A Parda, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Campo Da Torre - Mollabao, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro - Echegaray, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "La Seca - Los Salgueriños, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Monteporreiro, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Burgo - Campus Universitario, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona María Victoria Moreno, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Zona Plaza de Barcelos, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-002-038-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Salcedo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-624",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santa María de Xeve, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-618",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Santo André de Xeve, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-619",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Verducido, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-003-617",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vilaboa, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-06-005-058",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Área de Vigo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01",
+    "Divisible": true,
+    "SubTypeText": "Comarca"
+  },
+  {
+    "Name": "Atios (Santa Eulalia P.), Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-004-606",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Baiona, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-002-003",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Gondomar, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-006-021",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Mos, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-008-033",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Nigran, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Camos, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-04",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Chandebrito, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Panxón, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-01",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Parada, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Priegue, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "San Pedro da Ramallosa, Nigran",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-005-035-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "O Porriño, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-004-039",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Pazos de Borbén, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-007-037",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Redondela, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-003-045",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Salceda de Caselas, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-004-049",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Soutomaior, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-007-053",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Vigo, Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057",
+    "Divisible": true,
+    "SubTypeText": "Municipio"
+  },
+  {
+    "Name": "Alcabre, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-08",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Bembrive, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-10",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Candean - Cabral, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-03",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Castrelos - Sárdoma, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-07",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Centro urbano, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01",
+    "Divisible": true,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "A Salgueira - O Castaño, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-013",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "As Travesas - Balaídos, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-012",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Berbés - Peritos, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-011",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Bouzas, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-006",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Camelias - Pi y Margall, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-010",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Casablanca - Calvario, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-004",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Casco Vello, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-001",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Centro - Areal, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-002",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Coia, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-005",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Fátima, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-009",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "O Castro, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-008",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Plaza España - Corte Inglés, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-007",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Plaza de la Industria, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-014",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Pz Independencia, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-003",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Travesía de Vigo - San Xoán, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-01-015",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Comesaña - Matamá, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-09",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coruxo - Oia - Saiáns, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-04",
+    "Divisible": true,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Coruxo, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-04-001",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Oia, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-04-002",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Saiáns, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-04-003",
+    "Divisible": false,
+    "SubTypeText": "Barrio"
+  },
+  {
+    "Name": "Lavadores, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-05",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Navia, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-11",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Teis, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-06",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Valadares - Beade, Vigo",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-001-057-02",
+    "Divisible": false,
+    "SubTypeText": "Distrito"
+  },
+  {
+    "Name": "Vincios (Santa Marina P.), Pontevedra",
+    "Portal": "idealista",
+    "LocationId": "0-EU-ES-36-01-002-602",
+    "Divisible": false,
+    "SubTypeText": "Municipio"
+  }
+]

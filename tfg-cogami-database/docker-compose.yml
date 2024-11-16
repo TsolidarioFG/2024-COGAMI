@@ -1,0 +1,14 @@
+﻿version: '3.8'
+services:
+  cogami-rumbo-database:
+    image: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=cogami-admin
+      - MONGO_INITDB_ROOT_PASSWORD=password
+    ports:
+      - 27017:27017
+    volumes:
+      - cogami-db-vol:/data/db
+volumes:
+  cogami-db-vol:
+    driver: local
