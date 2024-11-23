@@ -3,7 +3,6 @@ from pymongo.mongo_client import MongoClient
 from bson.objectid import ObjectId
 import random
 import requests
-import re
 
 with open('config.json', 'r') as file:
     config = json.load(file)
@@ -79,7 +78,11 @@ def check_idealista_api(property_code: str, database_data, property_id: str, use
             last_updated_date = data["last_updated_date"]
             last_updated_text = data["last_updated_text"]
         else:
-            price = f"{int(data["priceInfo"]["amount"])} €/mes" if database_data["operation"] == "rent" else f"{int(data["priceInfo"]["amount"])} €"
+            amount = int(data.get("priceInfo", {}).get("amount", 0))
+            operation = database_data.get("operation", "").lower()
+
+            price = f"{amount} €/mes" if operation == "rent" else f"{amount} €"
+
             for chr in data["translatedTexts"]["characteristicsDescriptions"]:
                 if chr["key"] == "features":
                     characteristics_description = chr["detailFeatures"]
@@ -181,7 +184,20 @@ def check_fotocasa_api(property_code: str, database_data, property_id: str, user
             description = data["description"]
             images_list = data["images"]
         else:
-            price = f"{data["transactions"][0]["value"][0]} €/mes" if database_data["operation"] == "rent" else f"{data["transactions"][0]["value"][0]} €"
+            transactions = data.get("transactions", [])
+            if transactions and isinstance(transactions[0], dict):
+                value = transactions[0].get("value", [])
+                price = value[0] if value else "N/A"
+            else:
+                price = "N/A"
+
+            operation = database_data.get("operation", "").lower()
+
+            if price != "N/A":
+                if operation == "rent":
+                    price = f"{price} €/mes"
+                else:
+                    price = f"{price} €"
             
             description = data["descriptions"]["es-ES"]
             images_list = []
@@ -287,7 +303,7 @@ if __name__ == "__main__":
         _remove_unused_properties()
         for user in users:
             # remove_followed_property(user["_id"])
-            for followed_property in user["FollowedProperties"]:
+            for followed_property in user.get("FollowedProperties", []):
                 main_process(followed_property["_id"], user["_id"])
 
     except Exception as e:

@@ -1,5 +1,5 @@
 {
-    "cogami_database_connection_url": "mongodb://localhost:27017/",
+    "cogami_database_connection_url": "mongodb://cogami-admin:password@tfg-cogami-database-cogami-rumbo-database-1:27017",
     "RAPID_API": {
         "keys": {
             "RAPIDAPI_KEY_POOL_0": "9d6333122cmsh44b1df6761f21f5p1773bcjsn7faa33ac1e16",
