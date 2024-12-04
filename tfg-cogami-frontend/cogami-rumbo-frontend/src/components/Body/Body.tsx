@@ -26,14 +26,16 @@ const Body : React.FC = () => {
                 let isAlertNotifications = false
                 let isAlertNotAvailable = false
 
-                result.map((favProp: any) => {
-                    if (favProp?.notifications === 1) {
-                        isAlertNotifications = true
-                    }
-                    if (favProp?.notifications === -1) {
-                        isAlertNotAvailable = true
-                    }
-                })
+                if (result) {
+                    result.map((favProp: any) => {
+                        if (favProp?.notifications === 1) {
+                            isAlertNotifications = true
+                        }
+                        if (favProp?.notifications === -1) {
+                            isAlertNotAvailable = true
+                        }
+                    })
+                }
 
                 let snackText = ""
 

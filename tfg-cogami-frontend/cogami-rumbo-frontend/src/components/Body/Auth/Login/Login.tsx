@@ -63,7 +63,7 @@ const Login : FC = () => {
 
         if (form.email && form.password) {
             callApi(login({ email: form.email, password: form.password })).then((result: any) => {
-                setCookie('authentication', result?.jwtToken, { path: '/', maxAge: 14400, secure: true, sameSite: 'strict' })
+                setCookie('authentication', result?.jwtToken, { path: '/', maxAge: 14400, secure: false, sameSite: 'lax' })
                 localStorage.setItem("user", JSON.stringify(result?.userInfo))
                 navigate("/accessible-search", { replace: true })
             })

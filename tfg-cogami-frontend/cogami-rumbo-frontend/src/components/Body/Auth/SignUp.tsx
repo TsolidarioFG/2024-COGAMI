@@ -91,7 +91,7 @@ const SignUp : FC = () => {
         if (form.name && form.lastName && form.email && form.username && form.password) {
             callApi(signUp({ name: form.name, lastName: form.lastName, username: form.username, email: form.email, password: form.password })).then((result: any) => {
                 snackBar.showSnackBar("Usuario creado satisfactoriamente", "success", { vertical: "top", horizontal: "center" }, 3000)
-                setCookie('authentication', result?.jwtToken, { path: '/', maxAge: 1296000, secure: true, sameSite: "strict" })
+                setCookie('authentication', result?.jwtToken, { path: '/', maxAge: 1296000, secure: false, sameSite: "lax" })
                 localStorage.setItem("user", JSON.stringify(result?.userInfo))
                 navigate("/", { replace: true })
             })
